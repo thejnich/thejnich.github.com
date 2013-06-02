@@ -1,2 +1,2 @@
-Source for my GitHub home page.
+Source for my GitHub.
 [Check it out.](http://thejnich.github.io/)
